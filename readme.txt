@@ -4,5 +4,4 @@ Run pip install -r requirements.txt for imports.
 
 Sources:
 (Data)
-https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-
-al-2009
+https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
